@@ -1,0 +1,5 @@
+mkdir attendance-app
+cd attendance-app
+npm init -y
+
+npm install express mongoose body-parser
